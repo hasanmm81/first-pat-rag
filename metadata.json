@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Institutional Intelligence & Telemetry",
+  "description": "Comprehensive multi-asset market intelligence platform featuring real-time indices, US stocks, crypto, commodities, forex, and sovereign bonds with interactive supercharts and screeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
